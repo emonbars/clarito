@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VideOS</string>
+    <string name="clarito">VideOS</string>
+    <string name="todo">TODO</string>
+    <string name="textview">TextView</string>
+    <string name="overview">Overview</string>
+</resources>
